@@ -43,8 +43,8 @@ EgiMirageTypeIfrit	0
 BahamutSize	2
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	69468160
 ActiveLS_L	39684
@@ -86,7 +86,7 @@ HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
 HotbarCrossSetChangeCustomSet6	0
 HotbarCrossSetChangeCustomSet7	0
-HotbarCrossSetChangeCustomSet6	0
+HotbarCrossSetChangeCustomSet8	1
 HotbarCrossSetChangeCustomIsSword	1
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	0
@@ -95,7 +95,7 @@ HotbarCrossSetChangeCustomIsSwordSet4	0
 HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
 HotbarCrossSetChangeCustomIsSwordSet7	0
-HotbarCrossSetChangeCustomIsSwordSet6	0
+HotbarCrossSetChangeCustomIsSwordSet8	0
 HotbarCrossAdvancedSetting	1
 HotbarCrossAdvancedSettingLeft	3
 HotbarCrossAdvancedSettingRight	2
@@ -107,9 +107,9 @@ HotbarCrossSetChangeCustomSet2Pvp	1
 HotbarCrossSetChangeCustomSet3Pvp	0
 HotbarCrossSetChangeCustomSet4Pvp	0
 HotbarCrossSetChangeCustomSet5Pvp	0
-HotbarCrossSetChangeCustomSet6Pvp	0
-HotbarCrossSetChangeCustomSet7Pvp	0
 HotbarCrossSetChangeCustomSet6Pvp	1
+HotbarCrossSetChangeCustomSet7Pvp	0
+HotbarCrossSetChangeCustomSet8Pvp	1
 HotbarCrossSetChangeCustomIsSwordPvp	0
 HotbarCrossSetChangeCustomIsSwordSet1Pvp	1
 HotbarCrossSetChangeCustomIsSwordSet2Pvp	1
@@ -118,7 +118,7 @@ HotbarCrossSetChangeCustomIsSwordSet4Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet5Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet7Pvp	0
-HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
+HotbarCrossSetChangeCustomIsSwordSet8Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
@@ -140,9 +140,9 @@ PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
 NamePlateHpSizeType	1
-NamePlateColorSelf	4294967040
-NamePlateEdgeSelf	4281874432
-NamePlateDispTypeSelf	2
+NamePlateColorSelf	4278255360
+NamePlateEdgeSelf	4278211584
+NamePlateDispTypeSelf	0
 NamePlateNameTypeSelf	0
 NamePlateHpTypeSelf	2
 NamePlateColorSelfBuddy	4294901736
@@ -171,7 +171,7 @@ NamePlateDispTypeAlliancePet	1
 NamePlateHpTypeAlliancePet	2
 NamePlateColorOther	4294234268
 NamePlateEdgeOther	4283251221
-NamePlateDispTypeOther	2
+NamePlateDispTypeOther	0
 NamePlateNameTypeOther	0
 NamePlateHpTypeOther	3
 NamePlateDispTypeOtherPet	2
@@ -235,7 +235,7 @@ NamePlateDispTypeHousingFurniture	0
 NamePlateColorHousingField	4294967295
 NamePlateColorHousingFieldEdge	4278190080
 NamePlateDispTypeHousingField	1
-NamePlateNameTypePvPEnemy	0
+NamePlateNameTypePvPEnemy	1
 NamePlateDispTypeFeast	0
 NamePlateNameTypeFeast	0
 NamePlateHpTypeFeast	2
@@ -258,7 +258,7 @@ Log	0
 LogTell	0
 LogFontSize	12
 LogTabName2	剧情
-LogTabName3	采集
+LogTabName3	副职
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -361,7 +361,7 @@ ShopConfirmMateria	1
 ShopConfirmExRare	1
 ShopConfirmSpiritBondMax	1
 ItemSortItemCategory	0
-ItemSortEquipLevel	0
+ItemSortEquipLevel	2
 ItemSortItemLevel	0
 ItemSortItemStack	1
 ItemSortTidyingType	1
