@@ -51,7 +51,7 @@ ActiveLS_L	39684
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
-ExHotbarChangeHotbar1	1
+ExHotbarChangeHotbar1	0
 HotbarCommon01	0
 HotbarCommon02	0
 HotbarCommon03	0
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
