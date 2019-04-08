@@ -26,7 +26,7 @@ CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
-EventCameraAutoControl	1
+EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
@@ -43,8 +43,8 @@ EgiMirageTypeIfrit	0
 BahamutSize	2
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	69468160
 ActiveLS_L	39684
