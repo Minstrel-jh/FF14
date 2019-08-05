@@ -43,9 +43,9 @@ EgiMirageTypeIfrit	0
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	1
+TimeEorzea	0
 TimeLocal	0
-TimeServer	0
+TimeServer	1
 ActiveLS_H	69468160
 ActiveLS_L	46515
 HotbarLock	1
