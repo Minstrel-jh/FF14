@@ -44,8 +44,8 @@ BahamutSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	0
-TimeLocal	0
-TimeServer	1
+TimeLocal	1
+TimeServer	0
 ActiveLS_H	69468160
 ActiveLS_L	46515
 HotbarLock	1
@@ -70,10 +70,10 @@ HotbarCrossCommon05	1
 HotbarCrossCommon06	1
 HotbarCrossCommon07	1
 HotbarCrossCommon08	1
-HotbarCrossHelpDisp	1
+HotbarCrossHelpDisp	0
 HotbarCrossOperation	0
 HotbarCrossDisp	0
-HotbarCrossLock	0
+HotbarCrossLock	1
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	0
@@ -86,7 +86,7 @@ HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
 HotbarCrossSetChangeCustomSet6	0
 HotbarCrossSetChangeCustomSet7	0
-HotbarCrossSetChangeCustomSet8	1
+HotbarCrossSetChangeCustomSet8	0
 HotbarCrossSetChangeCustomIsSword	1
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	0
@@ -130,7 +130,7 @@ HotbarWXHBSetLeftPvP	14
 HotbarWXHBSetRightPvP	15
 HotbarWXHB8Button	1
 HotbarWXHB8ButtonPvP	0
-HotbarWXHBSetInputTime	25
+HotbarWXHBSetInputTime	30
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
 HotbarXHBActiveTransmissionAlpha	0
