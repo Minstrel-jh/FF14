@@ -204,7 +204,7 @@ NamePlateDispTypeObject	0
 NamePlateHpTypeObject	1
 NamePlateColorMinion	4294967295
 NamePlateEdgeMinion	4278190080
-NamePlateDispTypeMinion	0
+NamePlateDispTypeMinion	1
 NamePlateColorOtherBuddy	4293066729
 NamePlateEdgeOtherBuddy	4278213930
 NamePlateColorOtherPet	4293066729
@@ -212,7 +212,7 @@ NamePlateEdgeOtherPet	4278213930
 NamePlateNameTitleTypeSelf	1
 NamePlateNameTitleTypeParty	1
 NamePlateNameTitleTypeAlliance	1
-NamePlateNameTitleTypeOther	1
+NamePlateNameTitleTypeOther	0
 NamePlateNameTitleTypeFriend	1
 NamePlateColorFriend	4278223103
 NamePlateColorFriendEdge	4278201434
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -396,7 +396,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 PartyFinderNewArrivalDisp	1
 GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
@@ -406,7 +406,7 @@ FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
-ContentsReplayEnable	0
+ContentsReplayEnable	1
 MouseWheelOperationUp	1
 MouseWheelOperationDown	2
 MouseWheelOperationCtrlUp	0
