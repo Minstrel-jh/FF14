@@ -374,7 +374,7 @@ ItemDetailTemporarilySwitchKey	0
 ItemDetailTemporarilyHide	1
 ItemDetailTemporarilyHideKey	1
 ToolTipDispSize	0
-RecommendLoginDisp	1
+RecommendLoginDisp	0
 RecommendAreaChangeDisp	0
 PlayGuideLoginDisp	0
 PlayGuideAreaChangeDisp	0
