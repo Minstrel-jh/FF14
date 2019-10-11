@@ -16,9 +16,9 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.391331
+ThirdPersonDefaultYAngle	-0.349066
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	18.701061
+ThirdPersonDefaultDistance	6.000000
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -28,7 +28,7 @@ FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
 EventCameraAutoControl	0
 CameraLookBlinkType	0
-IdleEmoteTime	5
+IdleEmoteTime	0
 IdleEmoteRandomType	0
 CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
@@ -43,8 +43,8 @@ EgiMirageTypeIfrit	0
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	69468160
 ActiveLS_L	46515
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
