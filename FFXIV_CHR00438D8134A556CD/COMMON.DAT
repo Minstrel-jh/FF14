@@ -44,8 +44,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	1
-TimeLocal	0
+TimeEorzea	0
+TimeLocal	1
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -313,7 +313,7 @@ LogCwls5	0
 LogCwls6	0
 LogCwls7	0
 LogCwls8	0
-LogRecastActionErrDisp	1
+LogRecastActionErrDisp	0
 LogPermeationRate	46
 LogFontSizeForm	15
 LogItemLinkEnableType	1
@@ -418,7 +418,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 PartyFinderNewArrivalDisp	1
 GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
