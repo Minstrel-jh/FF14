@@ -1,6 +1,6 @@
 BattleEffectSelf	0
-BattleEffectParty	0
-BattleEffectOther	0
+BattleEffectParty	1
+BattleEffectOther	2
 
 <GamePad Settings>
 PadMode	0
@@ -418,7 +418,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 PartyFinderNewArrivalDisp	1
 GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
