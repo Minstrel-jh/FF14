@@ -44,8 +44,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -74,7 +74,7 @@ HotbarCrossCommon08	1
 HotbarCrossHelpDisp	0
 HotbarCrossOperation	0
 HotbarCrossDisp	0
-HotbarCrossLock	1
+HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	0
@@ -385,7 +385,7 @@ ShopConfirmSpiritBondMax	1
 ItemSortItemCategory	0
 ItemSortEquipLevel	1
 ItemSortItemLevel	1
-ItemSortItemStack	0
+ItemSortItemStack	1
 ItemSortTidyingType	1
 ItemNoArmoryMaskOff	1
 InfoSettingDispWorldNameType	1
