@@ -62,7 +62,7 @@ HotbarCommon06	1
 HotbarCommon07	1
 HotbarCommon08	1
 HotbarCommon09	0
-HotbarCommon10	0
+HotbarCommon10	1
 HotbarCrossCommon01	0
 HotbarCrossCommon02	0
 HotbarCrossCommon03	0
@@ -328,7 +328,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	6
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
