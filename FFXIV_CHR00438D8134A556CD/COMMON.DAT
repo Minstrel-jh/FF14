@@ -34,6 +34,13 @@ CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
 CutsceneSkipIsHousing	1
 PetTargetOffInCombat	1
+GroundTargetFPSPosX	50000
+GroundTargetFPSPosY	50000
+GroundTargetTPSPosX	50000
+GroundTargetTPSPosY	45000
+TargetDisableAnchor	0
+TargetCircleClickFilterEnableNearestCursor	0
+TargetEnableMouseOverSelect	0
 TurnSpeed	50
 FootEffect	1
 LegacySeal	1
@@ -44,8 +51,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -135,6 +142,9 @@ HotbarWXHBSetInputTime	30
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
 HotbarXHBActiveTransmissionAlpha	0
+HotbarXHBAlphaDefault	0
+HotbarXHBAlphaActiveSet	0
+HotbarXHBAlphaInactiveSet	0
 HotbarWXHBInputOnce	1
 IdlingCameraSwitchType	1
 PlateType	1
@@ -328,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -419,6 +429,8 @@ AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
+IsEmoteSe	0
+EmoteSeType	0
 PartyFinderNewArrivalDisp	1
 GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
