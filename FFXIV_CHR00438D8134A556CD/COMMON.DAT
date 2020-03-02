@@ -29,7 +29,7 @@ LegacyCameraType	1
 EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	0
-IdleEmoteRandomType	0
+IdleEmoteRandomType	1
 CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
 CutsceneSkipIsHousing	1
