@@ -29,7 +29,7 @@ LegacyCameraType	1
 EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	0
-IdleEmoteRandomType	1
+IdleEmoteRandomType	0
 CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
 CutsceneSkipIsHousing	1
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
