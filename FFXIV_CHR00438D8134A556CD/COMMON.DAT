@@ -81,7 +81,7 @@ HotbarCrossCommon08	1
 HotbarCrossHelpDisp	0
 HotbarCrossOperation	0
 HotbarCrossDisp	0
-HotbarCrossLock	0
+HotbarCrossLock	1
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
 HotbarCrossActiveSetPvP	0
@@ -428,7 +428,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
