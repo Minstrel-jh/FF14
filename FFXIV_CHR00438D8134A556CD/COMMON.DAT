@@ -51,8 +51,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	1
-TimeLocal	0
+TimeEorzea	0
+TimeLocal	1
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	0
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
