@@ -1,5 +1,5 @@
 BattleEffectSelf	0
-BattleEffectParty	1
+BattleEffectParty	0
 BattleEffectOther	2
 
 <GamePad Settings>
@@ -175,7 +175,7 @@ NamePlateDispTypePartyBuddy	0
 NamePlateHpTypePartyBuddy	2
 NamePlateColorAlliance	4286578644
 NamePlateEdgeAlliance	4280700224
-NamePlateDispTypeAlliance	1
+NamePlateDispTypeAlliance	0
 NamePlateNameTypeAlliance	0
 NamePlateHpTypeAlliance	2
 NamePlateDispTypeAlliancePet	1
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -428,7 +428,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	0
+EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
