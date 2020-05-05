@@ -141,7 +141,7 @@ HotbarWXHB8ButtonPvP	0
 HotbarWXHBSetInputTime	30
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
-HotbarXHBAlphaInactiveSet	0
+HotbarXHBActiveTransmissionAlpha	0
 HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
