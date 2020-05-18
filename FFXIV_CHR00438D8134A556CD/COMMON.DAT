@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	3
+ChatType	0
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
