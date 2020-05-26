@@ -1,5 +1,6 @@
 @echo on
 xcopy ..\MACROSYS.dat other\ /y 
+xcopy .git\config other\ /y 
 
 set "year=%date:~0,4%"
 set "month=%date:~5,2%"
