@@ -18,4 +18,5 @@ if "%hour_ten%" == " " (
 git add .
 git commit -m "%DateTime%"
 git push
+
 pause
