@@ -1,4 +1,2 @@
-screenshots/*
-/*/log/*.log
-.idea
+*.log
 .gitignore

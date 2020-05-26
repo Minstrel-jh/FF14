@@ -1,4 +1,6 @@
 @echo on
+xcopy ..\MACROSYS.dat other\ /y 
+
 set "year=%date:~0,4%"
 set "month=%date:~5,2%"
 set "day=%date:~8,2%"
@@ -12,7 +14,8 @@ if "%hour_ten%" == " " (
 ) else (
     set DateTime=%year%-%month%-%day% %hour_ten%%hour_one%:%minute%:%second%
 )
-git add *
+
+git add .
 git commit -m "%DateTime%"
 git push
 pause
