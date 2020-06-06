@@ -51,8 +51,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -264,7 +264,7 @@ PlayerInfo	0
 NaviMap	0
 Help	0
 CrossMainHelp	1
-HousingLocatePreview	1
+HousingLocatePreview	0
 Log	0
 LogTell	0
 LogFontSize	16
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	3
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
