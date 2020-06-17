@@ -56,7 +56,7 @@ TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	0
