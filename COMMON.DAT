@@ -25,7 +25,7 @@ LockonDefaultZoom	6.000000
 CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
-LegacyCameraType	1
+LegacyCameraType	0
 EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	0
@@ -56,7 +56,7 @@ TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
-HotbarLock	0
+HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	0
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	1
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
