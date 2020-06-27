@@ -25,7 +25,7 @@ LockonDefaultZoom	6.000000
 CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
-LegacyCameraType	0
+LegacyCameraType	1
 EventCameraAutoControl	0
 CameraLookBlinkType	0
 IdleEmoteTime	0
@@ -38,7 +38,7 @@ GroundTargetFPSPosX	50000
 GroundTargetFPSPosY	50000
 GroundTargetTPSPosX	50000
 GroundTargetTPSPosY	45000
-TargetDisableAnchor	0
+TargetDisableAnchor	1
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
 TurnSpeed	50
@@ -338,7 +338,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	2
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
