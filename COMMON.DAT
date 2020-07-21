@@ -1,5 +1,5 @@
 BattleEffectSelf	0
-BattleEffectParty	1
+BattleEffectParty	0
 BattleEffectOther	2
 
 <GamePad Settings>
@@ -38,7 +38,7 @@ GroundTargetFPSPosX	50000
 GroundTargetFPSPosY	50000
 GroundTargetTPSPosX	50000
 GroundTargetTPSPosY	45000
-TargetDisableAnchor	1
+TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
 TurnSpeed	50
@@ -51,8 +51,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	1
-TimeLocal	0
+TimeEorzea	0
+TimeLocal	1
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
@@ -141,7 +141,7 @@ HotbarWXHB8ButtonPvP	0
 HotbarWXHBSetInputTime	30
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
-HotbarXHBActiveTransmissionAlpha	0
+HotbarXHBAlphaInactiveSet	0
 HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
@@ -158,11 +158,11 @@ NamePlateNameTypeSelf	0
 NamePlateHpTypeSelf	2
 NamePlateColorSelfBuddy	4293066729
 NamePlateEdgeSelfBuddy	4278213930
-NamePlateDispTypeSelfBuddy	0
+NamePlateDispTypeSelfBuddy	3
 NamePlateHpTypeSelfBuddy	2
 NamePlateColorSelfPet	4293066729
 NamePlateEdgeSelfPet	4278213930
-NamePlateDispTypeSelfPet	0
+NamePlateDispTypeSelfPet	3
 NamePlateHpTypeSelfPet	2
 NamePlateColorParty	4278255360
 NamePlateEdgeParty	4278211584
@@ -175,7 +175,7 @@ NamePlateDispTypePartyBuddy	0
 NamePlateHpTypePartyBuddy	2
 NamePlateColorAlliance	4286578644
 NamePlateEdgeAlliance	4280700224
-NamePlateDispTypeAlliance	0
+NamePlateDispTypeAlliance	2
 NamePlateNameTypeAlliance	0
 NamePlateHpTypeAlliance	2
 NamePlateDispTypeAlliancePet	1
@@ -253,6 +253,7 @@ NamePlateHpTypeFeast	2
 NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
+NamePlateDispSize	0
 ActiveInfo	0
 PartyList	0
 PartyListStatus	5
@@ -268,8 +269,8 @@ HousingLocatePreview	0
 Log	0
 LogTell	0
 LogFontSize	16
-LogTabName2	剧情
-LogTabName3	副职
+LogTabName2	自定义
+LogTabName3	系统
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -277,7 +278,7 @@ LogTabFilter3	3
 LogChatFilter	1
 LogEnableErrMsgLv1	0
 LogNameType	0
-LogTimeDisp	0
+LogTimeDisp	1
 LogTimeSettingType	0
 LogTimeDispType	0
 IsLogTell	1
@@ -327,18 +328,18 @@ LogRecastActionErrDisp	0
 LogPermeationRate	46
 LogFontSizeForm	15
 LogItemLinkEnableType	1
-LogFontSizeLog2	12
+LogFontSizeLog2	16
 LogTimeDispLog2	0
 LogPermeationRateLog2	50
-LogFontSizeLog3	12
+LogFontSizeLog3	16
 LogTimeDispLog3	0
 LogPermeationRateLog3	50
-LogFontSizeLog4	12
-LogTimeDispLog4	0
+LogFontSizeLog4	16
+LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	1
+ChatType	3
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -428,7 +429,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
