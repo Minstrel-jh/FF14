@@ -56,7 +56,7 @@ TimeLocal	1
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	0
@@ -141,7 +141,7 @@ HotbarWXHB8ButtonPvP	0
 HotbarWXHBSetInputTime	30
 HotbarWXHBDisplay	1
 HotbarWXHBFreeLayout	0
-HotbarXHBAlphaInactiveSet	0
+HotbarXHBActiveTransmissionAlpha	0
 HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
@@ -339,7 +339,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	3
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
