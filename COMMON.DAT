@@ -52,8 +52,8 @@ BahamutSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	0
-TimeLocal	0
-TimeServer	1
+TimeLocal	1
+TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
 HotbarLock	1
@@ -65,7 +65,7 @@ HotbarCommon02	0
 HotbarCommon03	0
 HotbarCommon04	0
 HotbarCommon05	1
-HotbarCommon06	1
+HotbarCommon06	0
 HotbarCommon07	1
 HotbarCommon08	1
 HotbarCommon09	1
@@ -223,7 +223,7 @@ NamePlateEdgeOtherPet	4278213930
 NamePlateNameTitleTypeSelf	1
 NamePlateNameTitleTypeParty	1
 NamePlateNameTitleTypeAlliance	1
-NamePlateNameTitleTypeOther	0
+NamePlateNameTitleTypeOther	1
 NamePlateNameTitleTypeFriend	1
 NamePlateColorFriend	4278223103
 NamePlateColorFriendEdge	4278201434
@@ -339,7 +339,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
