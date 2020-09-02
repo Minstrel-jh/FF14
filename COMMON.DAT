@@ -51,12 +51,12 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	1079
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	0
@@ -429,7 +429,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
