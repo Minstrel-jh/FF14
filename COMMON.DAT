@@ -265,7 +265,7 @@ PlayerInfo	0
 NaviMap	0
 Help	0
 CrossMainHelp	1
-HousingLocatePreview	0
+HousingLocatePreview	1
 Log	0
 LogTell	0
 LogFontSize	16
