@@ -429,7 +429,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	0
+EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
