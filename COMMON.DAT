@@ -8,7 +8,7 @@ PadMode	0
 <UI Settings>
 
 <Charcter Settings>
-WeaponAutoPutAway	1
+WeaponAutoPutAway	0
 WeaponAutoPutAwayTime	3
 LipMotionType	1
 
