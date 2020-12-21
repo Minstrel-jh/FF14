@@ -8,8 +8,8 @@ PadMode	0
 <UI Settings>
 
 <Charcter Settings>
-WeaponAutoPutAway	0
-WeaponAutoPutAwayTime	3
+WeaponAutoPutAway	1
+WeaponAutoPutAwayTime	5
 LipMotionType	1
 
 <Game Camera Settings>
@@ -383,7 +383,7 @@ ColorFCAnnounce	11328742
 ColorSysBattle	13421772
 ColorSysGathering	13421772
 ColorSysErr	16731212
-ColorNpcSay	4294951104
+ColorNpcSay	4291611750
 ColorItemNotice	16777138
 ColorGrowup	16768627
 ColorLoot	13156512
