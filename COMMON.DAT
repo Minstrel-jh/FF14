@@ -346,7 +346,7 @@ ColorShout	16754278
 ColorTell	16759008
 ColorParty	6743807
 ColorAlliance	16744448
-ColorLS1	16747718
+ColorLS1	4294967040
 ColorLS2	16747718
 ColorLS3	16747718
 ColorLS4	16747718
@@ -364,7 +364,7 @@ ColorYell	16776960
 ColorBeginnerAnnounce	13959039
 ColorCWLS	16747718
 ColorCWLS2	16747718
-ColorCWLS3	16747718
+ColorCWLS3	11767039
 ColorCWLS4	16747718
 ColorCWLS5	16747718
 ColorCWLS6	16747718
@@ -383,7 +383,7 @@ ColorFCAnnounce	11328742
 ColorSysBattle	13421772
 ColorSysGathering	13421772
 ColorSysErr	16731212
-ColorNpcSay	4291611750
+ColorNpcSay	13421670
 ColorItemNotice	16777138
 ColorGrowup	16768627
 ColorLoot	13156512
@@ -437,7 +437,7 @@ GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
 LsListSortPriority	0
 FriendListSortPriority	1
-FriendListFilterType	0
+FriendListFilterType	3
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
