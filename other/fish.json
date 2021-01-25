@@ -1,1 +1,218 @@
-{"filters":{"completion":"uncaught","patch":[2,2.1,2.2,2.3,2.4,2.5]},"upcomingWindowFormat":"fromPrevClose","sortingType":"windowPeriods","theme":"dark","completed":[7685,7707,7686,7682,7681,7930,7683,8761,7708,7950,7938,7922,7714,4898,5007,7697,7684,5027,7692,8755,4918,4915,7698,7687,7689,7691,7710,8768,7927,7712,8754,7911,8776,8766,8763,8762,8758,7706,7912,7701,7940,7935,7924,10123,7709,7920,7951,5016,7932,7939,7903,5023,7942,7905,4913,4991,4911],"pinned":[]}
+{
+    "websiteVersion": "0.5.3",
+    "migrationVersion": "0.5.3",
+    "completed": [
+        7685,
+        7707,
+        7686,
+        7682,
+        7681,
+        7930,
+        7683,
+        8761,
+        7708,
+        7950,
+        7938,
+        7922,
+        7714,
+        4898,
+        5007,
+        7697,
+        7684,
+        5027,
+        7692,
+        8755,
+        4918,
+        4915,
+        7698,
+        7687,
+        7689,
+        7691,
+        7710,
+        8768,
+        7927,
+        7712,
+        7911,
+        8776,
+        8766,
+        8763,
+        8762,
+        8758,
+        7706,
+        7912,
+        7701,
+        7940,
+        7935,
+        7924,
+        10123,
+        7709,
+        7920,
+        7951,
+        5016,
+        7932,
+        7939,
+        7903,
+        5023,
+        7942,
+        7905,
+        4913,
+        4991,
+        4911,
+        5022,
+        8773,
+        7937,
+        8765,
+        7929,
+        7679,
+        5021,
+        5017,
+        7678,
+        7928,
+        7934,
+        7713,
+        8774,
+        4945,
+        4953,
+        4958,
+        4985
+    ],
+    "pinned": [],
+    "toBeNotified": [],
+    "filters": {
+        "patches": [
+            2,
+            2.1,
+            2.2,
+            2.3,
+            2.4,
+            2.5
+        ],
+        "completeTypes": [
+            "UNCOMPLETED"
+        ],
+        "bigFishTypes": [
+            "OLD_ONES",
+            "LIVING_LEGENDS",
+            "NORMAL"
+        ],
+        "fishN": 10,
+        "sorterType": "COUNTDOWN",
+        "fishConstraintTypes": [
+            "RESTRICTED",
+            "NOT_RESTRICTED"
+        ]
+    },
+    "showFilter": true,
+    "showBanner": false,
+    "opacity": 1,
+    "rightPanePercentage": 30,
+    "notification": {
+        "volume": 0.5,
+        "isSystemNotificationEnabled": true,
+        "settings": [
+            {
+                "key": "waiting",
+                "sound": "incomingTell1",
+                "enabled": true,
+                "hasBefore": true,
+                "before": 2
+            },
+            {
+                "key": "fishing",
+                "sound": "incomingTell2",
+                "enabled": true,
+                "hasBefore": false,
+                "before": 0
+            }
+        ]
+    },
+    "detailArrangement": {
+        "components": [
+            {
+                "name": "DetailItemMap",
+                "expandedEnabled": true,
+                "expanded": true,
+                "enabled": true,
+                "order": 0
+            },
+            {
+                "name": "DetailItemCountdownBar",
+                "expandedEnabled": false,
+                "enabled": true,
+                "order": 1
+            },
+            {
+                "name": "DetailItemRequirements",
+                "expandedEnabled": false,
+                "enabled": true,
+                "order": 2
+            },
+            {
+                "name": "DetailItemBuffAndBaits",
+                "expandedEnabled": false,
+                "enabled": true,
+                "order": 3
+            },
+            {
+                "name": "DetailItemFishWindowTable",
+                "expandedEnabled": true,
+                "expanded": false,
+                "enabled": true,
+                "order": 4
+            },
+            {
+                "name": "DetailItemPredators",
+                "expandedEnabled": false,
+                "enabled": true,
+                "order": 5
+            },
+            {
+                "name": "DetailItemTips",
+                "expandedEnabled": true,
+                "expanded": true,
+                "enabled": true,
+                "order": 6
+            }
+        ]
+    },
+    "theme": {
+        "dark": true,
+        "mode": "DARK"
+    },
+    "event": {
+        "startLight": true
+    },
+    "oceanFishing": {
+        "showWarningDialog": true
+    },
+    "link": {
+        "default": {
+            "item": "ANGLER",
+            "spot": "ANGLER"
+        }
+    },
+    "bait": {
+        "enableNotification": true,
+        "listFilter": {
+            "completeTypes": [
+                "UNCOMPLETED"
+            ],
+            "bigFishTypes": [
+                "LIVING_LEGENDS",
+                "OLD_ONES",
+                "NORMAL"
+            ],
+            "sorterType": "QUANTITY"
+        },
+        "notificationFilter": {
+            "completeTypes": [
+                "UNCOMPLETED"
+            ],
+            "bigFishTypes": [
+                "LIVING_LEGENDS",
+                "OLD_ONES",
+                "NORMAL"
+            ]
+        }
+    }
+}

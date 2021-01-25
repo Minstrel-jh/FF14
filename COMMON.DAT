@@ -51,8 +51,8 @@ EgiMirageTypeIfrit	3
 BahamutSize	0
 TimeMode	2
 Time12	0
-TimeEorzea	0
-TimeLocal	1
+TimeEorzea	1
+TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
 ActiveLS_L	7622
@@ -64,7 +64,7 @@ HotbarCommon01	0
 HotbarCommon02	0
 HotbarCommon03	0
 HotbarCommon04	0
-HotbarCommon05	1
+HotbarCommon05	0
 HotbarCommon06	0
 HotbarCommon07	1
 HotbarCommon08	1
@@ -339,7 +339,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
-ChatType	0
+ChatType	4
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -364,7 +364,7 @@ ColorYell	16776960
 ColorBeginnerAnnounce	13959039
 ColorCWLS	16747718
 ColorCWLS2	16747718
-ColorCWLS3	4294944358
+ColorCWLS3	4286611711
 ColorCWLS4	16747718
 ColorCWLS5	16747718
 ColorCWLS6	16747718
@@ -429,7 +429,7 @@ EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
 ItemInventryWindowSizeType	2
 ItemInventryRetainerWindowSizeType	1
-EmoteTextType	1
+EmoteTextType	0
 IsEmoteSe	0
 EmoteSeType	0
 PartyFinderNewArrivalDisp	1
