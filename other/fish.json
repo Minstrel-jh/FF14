@@ -75,11 +75,24 @@
         4953,
         4958,
         4985,
-        4921,
         7941,
-        4999
+        4924,
+        4921,
+        4999,
+        7693,
+        7695,
+        4905,
+        7699,
+        7904
     ],
-    "pinned": [],
+    "pinned": [
+        8775,
+        8756,
+        8768,
+        8763,
+        8772,
+        8754
+    ],
     "toBeNotified": [],
     "filters": {
         "patches": [
@@ -90,6 +103,8 @@
             2.4,
             2.5
         ],
+        "completeType": "UNCOMPLETED",
+        "bigFishType": "BIG_FISH",
         "completeTypes": [
             "UNCOMPLETED"
         ],
