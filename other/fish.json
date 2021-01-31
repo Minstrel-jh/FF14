@@ -216,14 +216,38 @@
         5040,
         5041,
         5042,
-        7936
+        7936,
+        7902,
+        7704,
+        8756,
+        4910,
+        7933,
+        8759,
+        5024,
+        7921,
+        4961,
+        4980,
+        7925,
+        4974,
+        4998,
+        5544,
+        4920,
+        8753,
+        7694,
+        7948,
+        7913,
+        5029,
+        7947,
+        8754,
+        7926,
+        7909,
+        5461,
+        8767,
+        5019
     ],
     "pinned": [
         8775,
-        8756,
-        8763,
-        8772,
-        8754
+        8772
     ],
     "toBeNotified": [],
     "filters": {
@@ -235,6 +259,8 @@
             2.4,
             2.5
         ],
+        "completeType": "UNCOMPLETED",
+        "bigFishType": "BIG_FISH",
         "completeTypes": [
             "UNCOMPLETED"
         ],
@@ -250,7 +276,7 @@
             "NOT_RESTRICTED"
         ]
     },
-    "showFilter": true,
+    "showFilter": false,
     "showBanner": false,
     "opacity": 1,
     "rightPanePercentage": 30,
@@ -362,5 +388,6 @@
                 "NORMAL"
             ]
         }
-    }
+    },
+    "showChromeBugDialog": true
 }
