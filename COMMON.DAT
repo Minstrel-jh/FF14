@@ -55,7 +55,7 @@ TimeEorzea	1
 TimeLocal	0
 TimeServer	0
 ActiveLS_H	73465856
-ActiveLS_L	1079
+ActiveLS_L	7622
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -269,7 +269,7 @@ HousingLocatePreview	1
 Log	0
 LogTell	0
 LogFontSize	15
-LogTabName2	剧情
+LogTabName2	关注
 LogTabName3	Logs
 LogTabFilter0	0
 LogTabFilter1	1
@@ -339,7 +339,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
-ChatType	20
+ChatType	6
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -437,7 +437,7 @@ GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
 LsListSortPriority	0
 FriendListSortPriority	1
-FriendListFilterType	0
+FriendListFilterType	1
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
