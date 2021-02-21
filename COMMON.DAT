@@ -308,8 +308,8 @@ IsLogLs8	1
 LogLs8	0
 IsLogBeginner	0
 LogBeginner	0
-IsLogCwls	1
-IsLogCwls2	1
+IsLogCwls	0
+IsLogCwls2	0
 IsLogCwls3	0
 IsLogCwls4	1
 IsLogCwls5	1
@@ -339,7 +339,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
-ChatType	7
+ChatType	1
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -437,7 +437,7 @@ GPoseTargetFilterNPCLookAt	1
 GPoseMotionFilterAction	1
 LsListSortPriority	0
 FriendListSortPriority	1
-FriendListFilterType	1
+FriendListFilterType	5
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
