@@ -15,3 +15,6 @@
 	merge = refs/heads/master
 [credential]
 	helper = store
+[gui]
+	wmstate = normal
+	geometry = 841x483+208+208 189 218
